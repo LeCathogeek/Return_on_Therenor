@@ -14,9 +14,8 @@ Après avoir triomphé de Zmeyevick, le protagoniste de <b>The legend of Thereno
 Mais un être mal intentionné souhaite dominer le monde et est prêt à sacrifier le héros désormais bien faible pour ressusciter l'hydre.
 Le descendant du légendaire héros va devoir prendre la route pour retourner sur l'île de ses ancêtres et sauver son grand-père.
 
-# 2- Lancement du jeu (Sous linux avec une distribution de type Debian)
+# 2- Lancement du jeu (Sous GNU/Linux)
 
-<pre>
 1. Commencez par installer python si ce n'est pas déjà fait :
 <code>sudo apt install python3</code>
 
@@ -28,7 +27,6 @@ Le descendant du légendaire héros va devoir prendre la route pour retourner su
 
 4. Ceci fait, il ne vous reste plus qu'à vous déplacer dans le répoertoire du code source du jeu et à lancer le jeu :
 <code>cd sources && python3 main.py</code>
-</pre>
 
 # 3- Jouabilité
 <pre>
